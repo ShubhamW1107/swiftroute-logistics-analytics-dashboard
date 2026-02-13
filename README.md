@@ -5,6 +5,7 @@ A dynamic and interactive Power BI dashboard built to analyze logistics operatio
 2️⃣ Purpose
 The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.
 This dashboard enables operational managers and business stakeholders to track KPIs such as on-time delivery rate, hub capacity utilization, driver performance, and vehicle breakdown trends to support data-driven decision-making.
+
 3️⃣ Tech Stack
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Primary data visualization and reporting platform
@@ -12,6 +13,7 @@ The dashboard was built using the following tools and technologies:
 • 🧠 DAX (Data Analysis Expressions) – KPI calculations, MoM growth, dynamic measures
 • 🗂 Data Modeling – Relationships established between Orders, Hubs, Drivers, and Vehicles tables
 • 📁 File Format – .pbix for development and .png for dashboard previews
+
 4️⃣ Data Source
 Source: Simulated logistics operational dataset (Orders, Hubs, Drivers, Vehicles).
 The dataset consists of multiple relational tables:
@@ -20,6 +22,7 @@ The dataset consists of multiple relational tables:
 • Drivers – Experience, performance rating, employment type
 • Vehicles – Fleet details, breakdown count, maintenance history
 The data model enables cross-analysis between operational entities to generate meaningful business insights.
+
 5️⃣ Features
 • Business Problem
 Logistics companies often struggle with:
@@ -70,6 +73,7 @@ Capacity Planning: Highlighted hubs operating above capacity limits.
 Performance Optimization: Revealed correlation between driver experience and rating.
 Fleet Risk Monitoring: Detected aging vehicles with higher breakdown frequency.
 Customer Experience Tracking: Monitored CSAT trends to improve service quality.
+
 6️⃣ Screenshots / Demo
 ![Overview Dashboard][(screenshots/overview.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)
 ![Hub Analysis][(screenshots/hubs.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-hubs-analytics-.jpg)
