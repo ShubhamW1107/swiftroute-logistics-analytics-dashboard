@@ -77,6 +77,3 @@ Customer Experience Tracking: Monitored CSAT trends to improve service quality.<
 6️⃣ Screenshots <br>
 Show what the dashboard looks like. -<br>
 ![Overview Dashboard](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)<br>
-![Hub Analysis](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-hubs-analytics-.jpg)<br>
-![Driver Analysis](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-drivers-analytics-.jpg)<br>
-![Vehicle Analysis](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-vehicles-analytics-.jpg)<br>
