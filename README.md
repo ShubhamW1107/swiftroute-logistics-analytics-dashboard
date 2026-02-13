@@ -74,6 +74,6 @@ Performance Optimization: Revealed correlation between driver experience and rat
 Fleet Risk Monitoring: Detected aging vehicles with higher breakdown frequency.<br>
 Customer Experience Tracking: Monitored CSAT trends to improve service quality.<br>
 
-6️⃣ Screenshots <br>
-Show what the dashboard looks like. -<br>
+6️⃣ Screenshot of Dashboard <br>
+
 ![Overview Dashboard](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)<br>
