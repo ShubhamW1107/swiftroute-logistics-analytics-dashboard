@@ -1,12 +1,12 @@
 # swiftroute-logistics-analytics-dashboard
-1️⃣ Headline
+1️⃣ Headline<br>
 A dynamic and interactive Power BI dashboard built to analyze logistics operations — focusing on delivery performance, hub efficiency, driver productivity, fleet reliability, and customer satisfaction.
 
-2️⃣ Purpose
+2️⃣ Purpose<br>
 The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.
 This dashboard enables operational managers and business stakeholders to track KPIs such as on-time delivery rate, hub capacity utilization, driver performance, and vehicle breakdown trends to support data-driven decision-making.
 
-3️⃣ Tech Stack
+3️⃣ Tech Stack<br>
 The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
@@ -14,7 +14,7 @@ The dashboard was built using the following tools and technologies:<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
-4️⃣ Data Source
+4️⃣ Data Source<br>
 Source: Simulated logistics operational dataset (Orders, Hubs, Drivers, Vehicles).<br>
 The dataset consists of multiple relational tables:<br>
 • Orders – Order details, delivery time, delay status, customer satisfaction<br>
@@ -23,8 +23,8 @@ The dataset consists of multiple relational tables:<br>
 • Vehicles – Fleet details, breakdown count, maintenance history<br>
 The data model enables cross-analysis between operational entities to generate meaningful business insights.<br>
 
-5️⃣ Features
-• Business Problem
+5️⃣ Features<br>
+• Business Problem<br>
 Logistics companies often struggle with:<br>
 Delivery delays impacting customer satisfaction<br>
 Hubs operating beyond capacity<br>
@@ -74,8 +74,8 @@ Performance Optimization: Revealed correlation between driver experience and rat
 Fleet Risk Monitoring: Detected aging vehicles with higher breakdown frequency.<br>
 Customer Experience Tracking: Monitored CSAT trends to improve service quality.<br>
 
-6️⃣ Screenshots / Demo
-![Overview Dashboard][(screenshots/overview.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)
-![Hub Analysis][(screenshots/hubs.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-hubs-analytics-.jpg)
-![Driver Analysis][(screenshots/drivers.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-drivers-analytics-.jpg)
-![Vehicle Analysis][(screenshots/vehicles.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-vehicles-analytics-.jpg)
+6️⃣ Screenshots <br>
+![Overview Dashboard][(screenshots/overview.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)<br>
+![Hub Analysis][(screenshots/hubs.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-hubs-analytics-.jpg)<br>
+![Driver Analysis][(screenshots/drivers.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-drivers-analytics-.jpg)<br>
+![Vehicle Analysis][(screenshots/vehicles.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-vehicles-analytics-.jpg)<br>
