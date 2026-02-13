@@ -3,16 +3,16 @@
 A dynamic and interactive Power BI dashboard built to analyze logistics operations — focusing on delivery performance, hub efficiency, driver productivity, fleet reliability, and customer satisfaction.
 
 2️⃣ Purpose
-The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.
+The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.<br>
 This dashboard enables operational managers and business stakeholders to track KPIs such as on-time delivery rate, hub capacity utilization, driver performance, and vehicle breakdown trends to support data-driven decision-making.
 
 3️⃣ Tech Stack
-The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Primary data visualization and reporting platform
-• 📂 Power Query – Data cleaning, transformation, and shaping
-• 🧠 DAX (Data Analysis Expressions) – KPI calculations, MoM growth, dynamic measures
-• 🗂 Data Modeling – Relationships established between Orders, Hubs, Drivers, and Vehicles tables
-• 📁 File Format – .pbix for development and .png for dashboard previews
+The dashboard was built using the following tools and technologies:<br>
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+•	📁 File Format – .pbix for development and .png for dashboard previews.
 
 4️⃣ Data Source
 Source: Simulated logistics operational dataset (Orders, Hubs, Drivers, Vehicles).
