@@ -3,7 +3,7 @@
 A dynamic and interactive Power BI dashboard built to analyze logistics operations — focusing on delivery performance, hub efficiency, driver productivity, fleet reliability, and customer satisfaction.
 
 2️⃣ Purpose
-The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.<br>
+The SwiftRoute Logistics Analytics Dashboard is a comprehensive Power BI report designed to monitor and optimize end-to-end logistics operations.
 This dashboard enables operational managers and business stakeholders to track KPIs such as on-time delivery rate, hub capacity utilization, driver performance, and vehicle breakdown trends to support data-driven decision-making.
 
 3️⃣ Tech Stack
@@ -39,40 +39,40 @@ Enables performance comparison across hubs and drivers<br>
 Tracks delivery efficiency trends month-over-month<br>
 Identifies operational risks related to fleet and capacity<br>
 Supports strategic and operational decision-making<br>
-• Walkthrough of Key Visuals
-🔹 Key KPIs (Overview Dashboard)
-Total Orders
-Month-over-Month Growth (%)
-On-Time Delivery Rate (%)
-Customer Satisfaction Score (CSAT %)
-Average Delivery Time (Hours)
-Provides a high-level operational performance summary.
-🔹 Hub Analysis
-Total Number of Hubs
-Orders Processed vs Hub Capacity (Clustered Column Chart)
-Hub Performance Ranking (Bar Chart)
-Hub Processing Time Matrix
-Helps identify overloaded hubs and improve capacity planning.
-🔹 Driver Performance Analysis
-Total Active Drivers
-Experience vs Rating (Scatter Plot)
-Drivers with Most Delays (Bar Chart)
-Driver Profile Summary (Hire Date, YOE, Rating, Monthly Deliveries)
-Monthly Order Trend (Line Chart)
-Enables workforce evaluation and targeted performance improvement.
-🔹 Vehicle & Fleet Analytics
-Total Vehicles & Active Vehicles (KPI & Donut Chart)
-Orders by Vehicle Model (Bar Chart)
-Vehicle Age vs Breakdown (Scatter Plot)
-Breakdown by Vehicle Code & Model
-Orders by Vehicle Type (Donut Chart)
-Supports fleet optimization and proactive maintenance planning.
-• Business Impact & Insights
-Operational Efficiency: Identified delay patterns and delivery performance gaps.
-Capacity Planning: Highlighted hubs operating above capacity limits.
-Performance Optimization: Revealed correlation between driver experience and rating.
-Fleet Risk Monitoring: Detected aging vehicles with higher breakdown frequency.
-Customer Experience Tracking: Monitored CSAT trends to improve service quality.
+• Walkthrough of Key Visuals<br>
+🔹 Key KPIs (Overview Dashboard)<br>
+Total Orders<br>
+Month-over-Month Growth (%)<br>
+On-Time Delivery Rate (%)<br>
+Customer Satisfaction Score (CSAT %)<br>
+Average Delivery Time (Hours)<br>
+Provides a high-level operational performance summary.<br>
+🔹 Hub Analysis<br>
+Total Number of Hubs<br>
+Orders Processed vs Hub Capacity (Clustered Column Chart)<br>
+Hub Performance Ranking (Bar Chart)<br>
+Hub Processing Time Matrix<br>
+Helps identify overloaded hubs and improve capacity planning.<br>
+🔹 Driver Performance Analysis<br>
+Total Active Drivers<br>
+Experience vs Rating (Scatter Plot)<br>
+Drivers with Most Delays (Bar Chart)<br>
+Driver Profile Summary (Hire Date, YOE, Rating, Monthly Deliveries)<br>
+Monthly Order Trend (Line Chart)<br>
+Enables workforce evaluation and targeted performance improvement.<br>
+🔹 Vehicle & Fleet Analytics<br>
+Total Vehicles & Active Vehicles (KPI & Donut Chart)<br>
+Orders by Vehicle Model (Bar Chart)<br>
+Vehicle Age vs Breakdown (Scatter Plot)<br>
+Breakdown by Vehicle Code & Model<br>
+Orders by Vehicle Type (Donut Chart)<br>
+Supports fleet optimization and proactive maintenance planning.<br>
+• Business Impact & Insights<br>
+Operational Efficiency: Identified delay patterns and delivery performance gaps.<br>
+Capacity Planning: Highlighted hubs operating above capacity limits.<br>
+Performance Optimization: Revealed correlation between driver experience and rating.<br>
+Fleet Risk Monitoring: Detected aging vehicles with higher breakdown frequency.<br>
+Customer Experience Tracking: Monitored CSAT trends to improve service quality.<br>
 
 6️⃣ Screenshots / Demo
 ![Overview Dashboard][(screenshots/overview.png)](https://github.com/ShubhamW1107/swiftroute-logistics-analytics-dashboard/blob/main/Screenshots/swiftroute-logistics-analytics-dashboard.jpg)
