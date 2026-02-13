@@ -15,30 +15,30 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 4️⃣ Data Source
-Source: Simulated logistics operational dataset (Orders, Hubs, Drivers, Vehicles).
-The dataset consists of multiple relational tables:
-• Orders – Order details, delivery time, delay status, customer satisfaction
-• Hubs – Hub capacity and processing performance
-• Drivers – Experience, performance rating, employment type
-• Vehicles – Fleet details, breakdown count, maintenance history
-The data model enables cross-analysis between operational entities to generate meaningful business insights.
+Source: Simulated logistics operational dataset (Orders, Hubs, Drivers, Vehicles).<br>
+The dataset consists of multiple relational tables:<br>
+• Orders – Order details, delivery time, delay status, customer satisfaction<br>
+• Hubs – Hub capacity and processing performance<br>
+• Drivers – Experience, performance rating, employment type<br>
+• Vehicles – Fleet details, breakdown count, maintenance history<br>
+The data model enables cross-analysis between operational entities to generate meaningful business insights.<br>
 
 5️⃣ Features
 • Business Problem
-Logistics companies often struggle with:
-Delivery delays impacting customer satisfaction
-Hubs operating beyond capacity
-Driver performance inconsistencies
-Vehicle breakdowns causing operational disruptions
-Lack of centralized KPI monitoring
-Raw operational data alone makes it difficult for management to quickly identify bottlenecks and inefficiencies.
-• Goal of the Dashboard
-To build an interactive business intelligence solution that:
-Provides centralized visibility into logistics KPIs
-Enables performance comparison across hubs and drivers
-Tracks delivery efficiency trends month-over-month
-Identifies operational risks related to fleet and capacity
-Supports strategic and operational decision-making
+Logistics companies often struggle with:<br>
+Delivery delays impacting customer satisfaction<br>
+Hubs operating beyond capacity<br>
+Driver performance inconsistencies<br>
+Vehicle breakdowns causing operational disruptions<br>
+Lack of centralized KPI monitoring<br>
+Raw operational data alone makes it difficult for management to quickly identify bottlenecks and inefficiencies.<br>
+• Goal of the Dashboard<br>
+To build an interactive business intelligence solution that:<br>
+Provides centralized visibility into logistics KPIs<br>
+Enables performance comparison across hubs and drivers<br>
+Tracks delivery efficiency trends month-over-month<br>
+Identifies operational risks related to fleet and capacity<br>
+Supports strategic and operational decision-making<br>
 • Walkthrough of Key Visuals
 🔹 Key KPIs (Overview Dashboard)
 Total Orders
